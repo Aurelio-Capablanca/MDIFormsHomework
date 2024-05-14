@@ -1,0 +1,19 @@
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\bin\Debug\VelascoAguilar.exe.config
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\bin\Debug\VelascoAguilar.exe
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\bin\Debug\VelascoAguilar.pdb
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.csprojResolveAssemblyReference.cache
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.Form1.resources
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.Properties.Resources.resources
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.csproj.GenerateResource.Cache
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.exe
+C:\Users\Lab2\Desktop\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.pdb
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\bin\Debug\VelascoAguilar.exe.config
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\bin\Debug\VelascoAguilar.exe
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\bin\Debug\VelascoAguilar.pdb
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.csproj.AssemblyReference.cache
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.Form1.resources
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.Properties.Resources.resources
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.csproj.GenerateResource.cache
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.csproj.CoreCompileInputs.cache
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.exe
+C:\Users\adalb\Desktop\Proyecto\Personal\Universidad\Universidad 2024\Ciclo 1\Programación I\MDI Forms\VelascoAguilar\VelascoAguilar\obj\Debug\VelascoAguilar.pdb
