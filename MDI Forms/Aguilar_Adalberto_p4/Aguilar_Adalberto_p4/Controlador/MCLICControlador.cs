@@ -21,15 +21,16 @@ namespace Aguilar_Adalberto_p4.Controlador
                 MessageBox.Show("Error al Ingresar la Altura");
                 return false;
             }
-            mlic.Altura = alturaValidada;
+            mlic.Altura = alturaValidada;           
             return true;
         }
 
         public double CalcularMLIC(String altura) {
-            bool resultado = Validar( altura);
+            bool resultado = Validar(altura);
             if (resultado.Equals(false))
                 return 0;
-            return 50 + (0.75 * (mlic.Altura - 150));
+            double calculo = (50 + (0.75 * (mlic.Altura - 150)));
+            return calculo < 0 ? calculo * -1 : calculo;
         }
 
     }

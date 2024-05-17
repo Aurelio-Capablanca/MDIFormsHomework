@@ -1,22 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDI Forms\\Aguilar_Adalberto_p4\\",
+  "WorkspaceRootPath": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACFC0B72-62AA-4C3D-BC7B-9F49DBD66216}|..\\..\\AppBibilioteca\\AppBibilioteca\\AppBibilioteca.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\appbibilioteca\\appbibilioteca\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\frmconversiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\frmconversiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACFC0B72-62AA-4C3D-BC7B-9F49DBD66216}|..\\..\\AppBibilioteca\\AppBibilioteca\\AppBibilioteca.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\appbibilioteca\\appbibilioteca\\controlador\\sesioncontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\controlador\\mcliccontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\controlador\\mcliccontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACFC0B72-62AA-4C3D-BC7B-9F49DBD66216}|..\\..\\AppBibilioteca\\AppBibilioteca\\AppBibilioteca.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\appbibilioteca\\appbibilioteca\\vista\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\controlador\\conversionescontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\controlador\\conversionescontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\controlador\\lorentzwandervaelcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\controlador\\lorentzwandervaelcontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\controlador\\imccalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\controlador\\imccalculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\frmmlic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\frmmlic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\frmlorentz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\frmlorentz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\frmmlic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\frmmlic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\frmconversiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\frmconversiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\frmlorentz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\frmlorentz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\mdiformshomework\\mdi forms\\aguilar_adalberto_p4\\aguilar_adalberto_p4\\vista\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A3169853-6F67-4896-B6AC-CA8E0B8863D6}|Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4.csproj|solutionrelative:aguilar_adalberto_p4\\vista\\mdiprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACFC0B72-62AA-4C3D-BC7B-9F49DBD66216}|..\\..\\AppBibilioteca\\AppBibilioteca\\AppBibilioteca.csproj|c:\\users\\adalb\\desktop\\proyecto\\personal\\universidad\\universidad 2024\\ciclo 1\\programaci\u00F3n i\\appbibilioteca\\appbibilioteca\\vista\\frmprimerusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 30,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,72 +66,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MDIPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
-              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
-              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "ConversionesControlador.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\ConversionesControlador.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Controlador\\ConversionesControlador.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\ConversionesControlador.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Controlador\\ConversionesControlador.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:50:56.492Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 230,
-          "SelectedChildIndex": 1,
-          "Children": [
+              "WhenOpened": "2024-05-17T03:03:47.271Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SesionControlador.cs",
-              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Controlador\\SesionControlador.cs",
-              "RelativeDocumentMoniker": "..\\..\\AppBibilioteca\\AppBibilioteca\\Controlador\\SesionControlador.cs",
-              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Controlador\\SesionControlador.cs",
-              "RelativeToolTip": "..\\..\\AppBibilioteca\\AppBibilioteca\\Controlador\\SesionControlador.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA2wB8AAAAcAAAA",
+              "Title": "MCLICControlador.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\MCLICControlador.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Controlador\\MCLICControlador.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\MCLICControlador.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Controlador\\MCLICControlador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T23:25:11.476Z",
+              "WhenOpened": "2024-05-17T02:54:32.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMCCalculo.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\IMCCalculo.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Controlador\\IMCCalculo.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\IMCCalculo.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Controlador\\IMCCalculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:54:29.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMLIC.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:50:46.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "..\\..\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs",
-              "RelativeToolTip": "..\\..\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAswCkAAAAFAAAA",
+              "Title": "FrmConversiones.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T23:24:57.75Z",
+              "WhenOpened": "2024-05-17T02:50:33.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmLogin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "..\\..\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmLogin.cs [Dise\u00F1o]",
+              "DocumentIndex": 8,
+              "Title": "FrmConversiones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\FrmConversiones.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T23:24:51.623Z",
+              "WhenOpened": "2024-05-17T02:49:53.204Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmPrimerUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmPrimerUsuario.cs",
-              "RelativeDocumentMoniker": "..\\..\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmPrimerUsuario.cs",
-              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmPrimerUsuario.cs",
-              "RelativeToolTip": "..\\..\\AppBibilioteca\\AppBibilioteca\\Vista\\FrmPrimerUsuario.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwDUAAAAgAAAA",
+              "DocumentIndex": 7,
+              "Title": "FrmMLIC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\FrmMLIC.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T16:53:53.23Z",
+              "WhenOpened": "2024-05-17T02:49:28.255Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LorentzWanDerVaelControlador.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\LorentzWanDerVaelControlador.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Controlador\\LorentzWanDerVaelControlador.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Controlador\\LorentzWanDerVaelControlador.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Controlador\\LorentzWanDerVaelControlador.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:47:35.769Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLorentz.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:47:18.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLorentz.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\FrmLorentz.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:47:16.429Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MDIPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAA9wHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:47:07.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MDIPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
+              "RelativeDocumentMoniker": "Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs",
+              "ToolTip": "C:\\Users\\adalb\\Desktop\\Proyecto\\Personal\\Universidad\\Universidad 2024\\Ciclo 1\\Programaci\u00F3n I\\MDIFormsHomework\\MDI Forms\\Aguilar_Adalberto_p4\\Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Aguilar_Adalberto_p4\\Vista\\MDIPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T02:47:01.577Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

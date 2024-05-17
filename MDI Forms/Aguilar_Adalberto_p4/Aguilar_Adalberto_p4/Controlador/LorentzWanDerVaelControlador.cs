@@ -37,9 +37,9 @@ namespace Aguilar_Adalberto_p4.Controlador
         {
             bool resultado = Validar(genero, altura);
             if (resultado.Equals(false))
-                return 0;            
+                return 0;
             double calculo = lorentz.Genero.Equals(2) ? (lorentz.Altura - 100) - (lorentz.Altura - 150) / 2 : (lorentz.Altura - 100) - (lorentz.Altura - 150) / 4;
-            return calculo;
+            return calculo < 0 ? calculo * -1 : calculo;
         }
 
         public Double CalcularWanDerVael(String genero, String altura)
@@ -48,7 +48,8 @@ namespace Aguilar_Adalberto_p4.Controlador
             if (resultado.Equals(false))
                 return 0;
             double determinar = lorentz.Genero.Equals(2) ? 0.6 : 0.75;
-            return ((lorentz.Altura - 150) * determinar) + 50;
+            double calculo = (((lorentz.Altura - 150) * determinar) + 50);
+            return calculo < 0 ? calculo * -1 : calculo;
         }
     }
 }

@@ -28,8 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmIMC));
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pcbTabla = new System.Windows.Forms.PictureBox();
             this.BtnLimpiar = new System.Windows.Forms.Button();
             this.BtnCalcular = new System.Windows.Forms.Button();
             this.nudAltura = new System.Windows.Forms.NumericUpDown();
@@ -38,7 +39,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbTabla)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudAltura)).BeginInit();
             this.SuspendLayout();
             // 
@@ -51,14 +52,15 @@
             this.textBox1.TabIndex = 19;
             this.textBox1.Text = "INDICE DE MASA CORPORAL (IMC)";
             // 
-            // pictureBox1
+            // pcbTabla
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(351, 104);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(347, 315);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 18;
-            this.pictureBox1.TabStop = false;
+            this.pcbTabla.Image = ((System.Drawing.Image)(resources.GetObject("pcbTabla.Image")));
+            this.pcbTabla.Location = new System.Drawing.Point(351, 104);
+            this.pcbTabla.Name = "pcbTabla";
+            this.pcbTabla.Size = new System.Drawing.Size(347, 315);
+            this.pcbTabla.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pcbTabla.TabIndex = 18;
+            this.pcbTabla.TabStop = false;
             // 
             // BtnLimpiar
             // 
@@ -163,7 +165,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(771, 448);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.pcbTabla);
             this.Controls.Add(this.BtnLimpiar);
             this.Controls.Add(this.BtnCalcular);
             this.Controls.Add(this.nudAltura);
@@ -174,7 +176,7 @@
             this.Controls.Add(this.label1);
             this.Name = "FrmIMC";
             this.Text = "FrmIMC";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pcbTabla)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudAltura)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -184,7 +186,7 @@
         #endregion
 
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pcbTabla;
         private System.Windows.Forms.Button BtnLimpiar;
         private System.Windows.Forms.Button BtnCalcular;
         private System.Windows.Forms.NumericUpDown nudAltura;

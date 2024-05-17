@@ -26,7 +26,7 @@ namespace Aguilar_Adalberto_p4.Vista
         {
             ConversionesControlador controlador = new ConversionesControlador();
             double resultado = controlador.Calcular(cmbCategoria.SelectedIndex.ToString(), mtxtEntrada.Text);
-            lblResultado.Text = resultado.ToString("000.00");
+            lblResultado.Text = resultado.ToString("F");
 
         }
 

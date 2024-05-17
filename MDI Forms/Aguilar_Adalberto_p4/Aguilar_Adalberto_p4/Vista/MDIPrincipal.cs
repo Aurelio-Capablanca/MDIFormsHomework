@@ -145,5 +145,17 @@ namespace Aguilar_Adalberto_p4.Vista
             FrmConversiones convertir = new FrmConversiones();
             convertir.Show();
         }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //Application.Exit();
+            this.Close();
+        }
+
+        private void valoresDeConversionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmInformacion informacion = new FrmInformacion();
+            informacion.Show();
+        }
     }
 }

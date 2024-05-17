@@ -41,6 +41,18 @@
             this.tileHorizontalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.closeAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.arrangeIconsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.configuracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.calcularSobrepesoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.calcularIMCToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.formulaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.formulaLoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.formulaMLICToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.formulaVanDerWaelToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.funcionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.valoresDeConversionToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.informacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.valoresDeConversionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip = new System.Windows.Forms.ToolStrip();
             this.newToolStripButton = new System.Windows.Forms.ToolStripButton();
             this.openToolStripButton = new System.Windows.Forms.ToolStripButton();
@@ -53,18 +65,6 @@
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.funcionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.configuracionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.informacionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulaLoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.calcularSobrepesoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.calcularIMCToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulaMLICToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.formulaVanDerWaelToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.valoresDeConversionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.valoresDeConversionToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.statusStrip.SuspendLayout();
@@ -131,44 +131,137 @@
             // newWindowToolStripMenuItem
             // 
             this.newWindowToolStripMenuItem.Name = "newWindowToolStripMenuItem";
-            this.newWindowToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.newWindowToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.newWindowToolStripMenuItem.Text = "&Nueva ventana";
             this.newWindowToolStripMenuItem.Click += new System.EventHandler(this.ShowNewForm);
             // 
             // cascadeToolStripMenuItem
             // 
             this.cascadeToolStripMenuItem.Name = "cascadeToolStripMenuItem";
-            this.cascadeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cascadeToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.cascadeToolStripMenuItem.Text = "&Cascada";
             this.cascadeToolStripMenuItem.Click += new System.EventHandler(this.CascadeToolStripMenuItem_Click);
             // 
             // tileVerticalToolStripMenuItem
             // 
             this.tileVerticalToolStripMenuItem.Name = "tileVerticalToolStripMenuItem";
-            this.tileVerticalToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tileVerticalToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.tileVerticalToolStripMenuItem.Text = "Mosaico &vertical";
             this.tileVerticalToolStripMenuItem.Click += new System.EventHandler(this.TileVerticalToolStripMenuItem_Click);
             // 
             // tileHorizontalToolStripMenuItem
             // 
             this.tileHorizontalToolStripMenuItem.Name = "tileHorizontalToolStripMenuItem";
-            this.tileHorizontalToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.tileHorizontalToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.tileHorizontalToolStripMenuItem.Text = "Mosaico &horizontal";
             this.tileHorizontalToolStripMenuItem.Click += new System.EventHandler(this.TileHorizontalToolStripMenuItem_Click);
             // 
             // closeAllToolStripMenuItem
             // 
             this.closeAllToolStripMenuItem.Name = "closeAllToolStripMenuItem";
-            this.closeAllToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.closeAllToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.closeAllToolStripMenuItem.Text = "C&errar todo";
             this.closeAllToolStripMenuItem.Click += new System.EventHandler(this.CloseAllToolStripMenuItem_Click);
             // 
             // arrangeIconsToolStripMenuItem
             // 
             this.arrangeIconsToolStripMenuItem.Name = "arrangeIconsToolStripMenuItem";
-            this.arrangeIconsToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.arrangeIconsToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
             this.arrangeIconsToolStripMenuItem.Text = "&Organizar iconos";
             this.arrangeIconsToolStripMenuItem.Click += new System.EventHandler(this.ArrangeIconsToolStripMenuItem_Click);
+            // 
+            // configuracionToolStripMenuItem
+            // 
+            this.configuracionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.calcularSobrepesoToolStripMenuItem,
+            this.formulaToolStripMenuItem});
+            this.configuracionToolStripMenuItem.Name = "configuracionToolStripMenuItem";
+            this.configuracionToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
+            this.configuracionToolStripMenuItem.Text = "Funciones";
+            // 
+            // calcularSobrepesoToolStripMenuItem
+            // 
+            this.calcularSobrepesoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.calcularIMCToolStripMenuItem});
+            this.calcularSobrepesoToolStripMenuItem.Name = "calcularSobrepesoToolStripMenuItem";
+            this.calcularSobrepesoToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
+            this.calcularSobrepesoToolStripMenuItem.Text = "Calcular Sobrepeso";
+            // 
+            // calcularIMCToolStripMenuItem
+            // 
+            this.calcularIMCToolStripMenuItem.Name = "calcularIMCToolStripMenuItem";
+            this.calcularIMCToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
+            this.calcularIMCToolStripMenuItem.Text = "Formula IMC";
+            this.calcularIMCToolStripMenuItem.Click += new System.EventHandler(this.calcularIMCToolStripMenuItem_Click);
+            // 
+            // formulaToolStripMenuItem
+            // 
+            this.formulaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.formulaLoToolStripMenuItem,
+            this.formulaMLICToolStripMenuItem,
+            this.formulaVanDerWaelToolStripMenuItem});
+            this.formulaToolStripMenuItem.Name = "formulaToolStripMenuItem";
+            this.formulaToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
+            this.formulaToolStripMenuItem.Text = "Calcular Peso Ideal";
+            // 
+            // formulaLoToolStripMenuItem
+            // 
+            this.formulaLoToolStripMenuItem.Name = "formulaLoToolStripMenuItem";
+            this.formulaLoToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
+            this.formulaLoToolStripMenuItem.Text = "Formula Lorentz";
+            this.formulaLoToolStripMenuItem.Click += new System.EventHandler(this.formulaLoToolStripMenuItem_Click);
+            // 
+            // formulaMLICToolStripMenuItem
+            // 
+            this.formulaMLICToolStripMenuItem.Name = "formulaMLICToolStripMenuItem";
+            this.formulaMLICToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
+            this.formulaMLICToolStripMenuItem.Text = "Formula MLIC";
+            this.formulaMLICToolStripMenuItem.Click += new System.EventHandler(this.formulaMLICToolStripMenuItem_Click);
+            // 
+            // formulaVanDerWaelToolStripMenuItem
+            // 
+            this.formulaVanDerWaelToolStripMenuItem.Name = "formulaVanDerWaelToolStripMenuItem";
+            this.formulaVanDerWaelToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
+            this.formulaVanDerWaelToolStripMenuItem.Text = "Formula Wan der Vael";
+            this.formulaVanDerWaelToolStripMenuItem.Click += new System.EventHandler(this.formulaVanDerWaelToolStripMenuItem_Click);
+            // 
+            // funcionesToolStripMenuItem
+            // 
+            this.funcionesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.valoresDeConversionToolStripMenuItem1});
+            this.funcionesToolStripMenuItem.Name = "funcionesToolStripMenuItem";
+            this.funcionesToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
+            this.funcionesToolStripMenuItem.Text = "Configuración";
+            // 
+            // valoresDeConversionToolStripMenuItem1
+            // 
+            this.valoresDeConversionToolStripMenuItem1.Name = "valoresDeConversionToolStripMenuItem1";
+            this.valoresDeConversionToolStripMenuItem1.Size = new System.Drawing.Size(190, 22);
+            this.valoresDeConversionToolStripMenuItem1.Text = "Valores de Conversion";
+            this.valoresDeConversionToolStripMenuItem1.Click += new System.EventHandler(this.valoresDeConversionToolStripMenuItem1_Click);
+            // 
+            // informacionToolStripMenuItem
+            // 
+            this.informacionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.valoresDeConversionToolStripMenuItem});
+            this.informacionToolStripMenuItem.Name = "informacionToolStripMenuItem";
+            this.informacionToolStripMenuItem.Size = new System.Drawing.Size(84, 20);
+            this.informacionToolStripMenuItem.Text = "Informacion";
+            this.informacionToolStripMenuItem.Click += new System.EventHandler(this.informacionToolStripMenuItem_Click);
+            // 
+            // valoresDeConversionToolStripMenuItem
+            // 
+            this.valoresDeConversionToolStripMenuItem.Name = "valoresDeConversionToolStripMenuItem";
+            this.valoresDeConversionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.valoresDeConversionToolStripMenuItem.Text = "Acerca de";
+            this.valoresDeConversionToolStripMenuItem.Click += new System.EventHandler(this.valoresDeConversionToolStripMenuItem_Click);
+            // 
+            // salirToolStripMenuItem
+            // 
+            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(41, 20);
+            this.salirToolStripMenuItem.Text = "Salir";
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
             // toolStrip
             // 
@@ -268,97 +361,6 @@
             this.toolStripStatusLabel.Name = "toolStripStatusLabel";
             this.toolStripStatusLabel.Size = new System.Drawing.Size(42, 17);
             this.toolStripStatusLabel.Text = "Estado";
-            // 
-            // funcionesToolStripMenuItem
-            // 
-            this.funcionesToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.valoresDeConversionToolStripMenuItem1});
-            this.funcionesToolStripMenuItem.Name = "funcionesToolStripMenuItem";
-            this.funcionesToolStripMenuItem.Size = new System.Drawing.Size(95, 20);
-            this.funcionesToolStripMenuItem.Text = "Configuración";
-            // 
-            // configuracionToolStripMenuItem
-            // 
-            this.configuracionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.calcularSobrepesoToolStripMenuItem,
-            this.formulaToolStripMenuItem});
-            this.configuracionToolStripMenuItem.Name = "configuracionToolStripMenuItem";
-            this.configuracionToolStripMenuItem.Size = new System.Drawing.Size(73, 20);
-            this.configuracionToolStripMenuItem.Text = "Funciones";
-            // 
-            // informacionToolStripMenuItem
-            // 
-            this.informacionToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.valoresDeConversionToolStripMenuItem});
-            this.informacionToolStripMenuItem.Name = "informacionToolStripMenuItem";
-            this.informacionToolStripMenuItem.Size = new System.Drawing.Size(84, 20);
-            this.informacionToolStripMenuItem.Text = "Informacion";
-            this.informacionToolStripMenuItem.Click += new System.EventHandler(this.informacionToolStripMenuItem_Click);
-            // 
-            // salirToolStripMenuItem
-            // 
-            this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(41, 20);
-            this.salirToolStripMenuItem.Text = "Salir";
-            // 
-            // formulaToolStripMenuItem
-            // 
-            this.formulaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.formulaLoToolStripMenuItem,
-            this.formulaMLICToolStripMenuItem,
-            this.formulaVanDerWaelToolStripMenuItem});
-            this.formulaToolStripMenuItem.Name = "formulaToolStripMenuItem";
-            this.formulaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.formulaToolStripMenuItem.Text = "Calcular Peso Ideal";
-            // 
-            // formulaLoToolStripMenuItem
-            // 
-            this.formulaLoToolStripMenuItem.Name = "formulaLoToolStripMenuItem";
-            this.formulaLoToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
-            this.formulaLoToolStripMenuItem.Text = "Formula Lorentz";
-            this.formulaLoToolStripMenuItem.Click += new System.EventHandler(this.formulaLoToolStripMenuItem_Click);
-            // 
-            // calcularSobrepesoToolStripMenuItem
-            // 
-            this.calcularSobrepesoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.calcularIMCToolStripMenuItem});
-            this.calcularSobrepesoToolStripMenuItem.Name = "calcularSobrepesoToolStripMenuItem";
-            this.calcularSobrepesoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.calcularSobrepesoToolStripMenuItem.Text = "Calcular Sobrepeso";
-            // 
-            // calcularIMCToolStripMenuItem
-            // 
-            this.calcularIMCToolStripMenuItem.Name = "calcularIMCToolStripMenuItem";
-            this.calcularIMCToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.calcularIMCToolStripMenuItem.Text = "Formula IMC";
-            this.calcularIMCToolStripMenuItem.Click += new System.EventHandler(this.calcularIMCToolStripMenuItem_Click);
-            // 
-            // formulaMLICToolStripMenuItem
-            // 
-            this.formulaMLICToolStripMenuItem.Name = "formulaMLICToolStripMenuItem";
-            this.formulaMLICToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
-            this.formulaMLICToolStripMenuItem.Text = "Formula MLIC";
-            this.formulaMLICToolStripMenuItem.Click += new System.EventHandler(this.formulaMLICToolStripMenuItem_Click);
-            // 
-            // formulaVanDerWaelToolStripMenuItem
-            // 
-            this.formulaVanDerWaelToolStripMenuItem.Name = "formulaVanDerWaelToolStripMenuItem";
-            this.formulaVanDerWaelToolStripMenuItem.Size = new System.Drawing.Size(189, 22);
-            this.formulaVanDerWaelToolStripMenuItem.Text = "Formula Wan der Vael";
-            this.formulaVanDerWaelToolStripMenuItem.Click += new System.EventHandler(this.formulaVanDerWaelToolStripMenuItem_Click);
-            // 
-            // valoresDeConversionToolStripMenuItem
-            // 
-            this.valoresDeConversionToolStripMenuItem.Name = "valoresDeConversionToolStripMenuItem";
-            this.valoresDeConversionToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.valoresDeConversionToolStripMenuItem.Text = "Acerca de";
-            // 
-            // valoresDeConversionToolStripMenuItem1
-            // 
-            this.valoresDeConversionToolStripMenuItem1.Name = "valoresDeConversionToolStripMenuItem1";
-            this.valoresDeConversionToolStripMenuItem1.Size = new System.Drawing.Size(190, 22);
-            this.valoresDeConversionToolStripMenuItem1.Text = "Valores de Conversion";
-            this.valoresDeConversionToolStripMenuItem1.Click += new System.EventHandler(this.valoresDeConversionToolStripMenuItem1_Click);
             // 
             // MDIPrincipal
             // 

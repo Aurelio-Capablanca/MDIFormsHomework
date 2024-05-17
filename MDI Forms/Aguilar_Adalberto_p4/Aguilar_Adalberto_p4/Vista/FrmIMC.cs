@@ -16,6 +16,7 @@ namespace Aguilar_Adalberto_p4.Vista.IMCVista
         public FrmIMC()
         {
             InitializeComponent();
+            pcbTabla.Visible = false;
         }
 
         private void BtnCalcular_Click(object sender, EventArgs e)
@@ -23,6 +24,7 @@ namespace Aguilar_Adalberto_p4.Vista.IMCVista
             IMCCalculo calcular = new IMCCalculo();
             Double calculo = calcular.Calcular(mtbPeso.Text, Convert.ToString(nudAltura.Value));
             lblIMC.Text = calculo.ToString("0.00");
+            pcbTabla.Visible = true;
         }
 
         private void BtnLimpiar_Click(object sender, EventArgs e)
@@ -30,6 +32,7 @@ namespace Aguilar_Adalberto_p4.Vista.IMCVista
             mtbPeso.Clear();
             nudAltura.Value = 1;
             lblIMC.Text = "0";
+            pcbTabla.Visible = false;
         }
     }
 }

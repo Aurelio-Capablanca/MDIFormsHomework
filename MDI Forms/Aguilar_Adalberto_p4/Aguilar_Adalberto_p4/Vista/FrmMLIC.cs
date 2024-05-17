@@ -21,14 +21,14 @@ namespace Aguilar_Adalberto_p4.Vista
         private void btnCalcular_Click(object sender, EventArgs e)
         {
             MCLICControlador controlador = new MCLICControlador();
-            double resultado = controlador.CalcularMLIC(mtxtAltura.Text);
+            double resultado = controlador.CalcularMLIC(mtxtAltura.Value.ToString());
             lblResultado.Text = resultado.ToString("0.00");
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             lblResultado.Text = "0";
-            mtxtAltura.Clear();
+            mtxtAltura.Value = 1;
         }
     }
 }
